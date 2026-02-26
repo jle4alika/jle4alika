@@ -51,5 +51,5 @@ src="https://img.shields.io/github/followers/jle4alika?logo=github&style=for-the
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes) 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jle4alika&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=jle4alika&theme=dracula&row=3&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
