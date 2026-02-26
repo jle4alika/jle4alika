@@ -6,7 +6,7 @@
 <br/>  
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jle4alika
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jle4alika [![codewars](https://www.codewars.com/users/JLe4alika/badges/micro)](https://www.codewars.com/users/jle4alika) 
 ==================================================================================================================================
 
 Fullstack Developer
@@ -30,7 +30,8 @@ My main language is Python. I very love the backend.
 
 <p align="left"> <a href="https://www.github.com/jle4alika" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 <a href="https://www.github.com/jle4alika" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jle4alika?logo=github&style=for-the-badge&color=0f172a&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/jle4alika?logo=github&style=for-the-badge&color=0f172a&labelColor=000000" /></a> 
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -41,9 +42,14 @@ src="https://img.shields.io/github/followers/jle4alika?logo=github&style=for-the
 
 <a href="http://www.github.com/jle4alika"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jle4alika&stroke=84cc16&background=000000&ring=84cc16&fire=84cc16&currStreakNum=84cc16&currStreakLabel=84cc16&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/jle4alika" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jle4alika&langs_count=10&title_color=84cc16&text_color=84cc16&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes) 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jle4alika&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
